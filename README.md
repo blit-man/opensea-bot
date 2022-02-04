@@ -1,0 +1,1 @@
+A simple one-page bot to automate the price recording of collections of Opensea. The bot uses Airtable to easily add and remove collections are records the floor price on a continuous basis to a local CSV. 
