@@ -1,0 +1,6 @@
+airtable==0.4.8
+airtable_python_wrapper==0.15.3
+beautifulsoup4==4.10.0
+requests==2.26.0
+scraperapi_sdk==0.2.2
+vonage==2.5.5
